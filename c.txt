@@ -1,1 +1,3 @@
 I am c.txt
+and
+Sido is as well
